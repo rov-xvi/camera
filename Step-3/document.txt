@@ -1,0 +1,4 @@
+untuk menjalankan dua buah script python
+
+- open recordvideo.py dengan menggunakan idle python lalu runing, system akan merecord video secara realtime dan membangun sebuah format .avi file video.
+- open extractFrame.py disaat yang bersamaan melalui cmd/command dengan mengklik extractFrame.py, system akan me load video.avi lalu meng-ekstrak video menjadi frame kedalam folder data.
