@@ -1,0 +1,3 @@
+testing open camera opencv
+
+pahami bagaimana alur system menghidupkan sebuah kamera

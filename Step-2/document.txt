@@ -1,0 +1,4 @@
+testing camera opencv take photo
+
+setelah paham bagaimana cara menggunakan kamera opencv
+pahami bagaimana cara mengambil sebuah gambar dalam opencv
